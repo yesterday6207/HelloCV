@@ -8,3 +8,5 @@ git_training仓库链接：https://gitee.com/yesterday6207/git_training
 
 第二次任务：CMake：https://www.yuque.com/g/yuqueyonghu-ixjogq/vr8zt5/collaborator/join?token=kMrqDOeu89p6d8A9&source=book_collaborator# 《CMake》；
            LLM：https://www.yuque.com/g/yuqueyonghu-ixjogq/qxqfg9/collaborator/join?token=gvtLry4r7dKlwPrZ&source=book_collaborator# 《LLM》；
+
+第三次任务：ROS2笔记：https://www.yuque.com/g/yuqueyonghu-ixjogq/gu6xvw/collaborator/join?token=hM4tKKCrUsgClftt&source=book_collaborator# 《ROS2》；
